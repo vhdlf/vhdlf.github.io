@@ -31,3 +31,10 @@ A summary of VHDL examples and projects.
 - 📻 [cpu_basic]﹕ Design of a pentium-like 32-bit CPU.
 
 [cpu_basic]: https://github.com/vhdlf/cpu_basic
+
+<br>
+<br>
+
+
+[![](https://img.youtube.com/vi/Th4E-0VFaEA/maxresdefault.jpg)](https://www.youtube.com/watch?v=Th4E-0VFaEA)
+[![ORG](https://img.shields.io/badge/org-wolfram77-green?logo=Org)](https://wolfram77.github.io)
